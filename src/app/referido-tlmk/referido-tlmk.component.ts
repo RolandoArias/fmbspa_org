@@ -585,7 +585,9 @@ console.log("Opcion seleccionada de Telefono:");
         console.log("tipi_actualizacion: "+tipi_actualizacion);
       }
   }
-  valor_tipificacion = 'REFERIDO TLM_'+tipi_creacion+'_'+tipi_actualizacion;
+ //valor_tipificacion = 'REFERIDO TLM_'+tipi_creacion+'_'+tipi_actualizacion;
+valor_tipificacion = 'REFERIDO TLM_c8aca7b6-cbdb-e811-8148-3863bb35ddc8';
+ //
   console.log(valor_tipificacion);
 
 
