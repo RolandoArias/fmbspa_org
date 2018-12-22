@@ -586,7 +586,7 @@ console.log("Opcion seleccionada de Telefono:");
       }
   }
  //valor_tipificacion = 'REFERIDO TLM_'+tipi_creacion+'_'+tipi_actualizacion;
-valor_tipificacion = 'REFERIDO TLM_c8aca7b6-cbdb-e811-8148-3863bb35ddc8';
+valor_tipificacion = 'REFERIDO TLM';
  //
   console.log(valor_tipificacion);
 
@@ -639,6 +639,7 @@ valor_tipificacion = 'REFERIDO TLM_c8aca7b6-cbdb-e811-8148-3863bb35ddc8';
                 TelefonoCasaPredictivo: (this.form.value.TelefonoCasaPredictivo =='')? null : this.form.value.TelefonoCasaPredictivo,
                 TelefonoOficinaPredictivo: ( this.form.value.TelefonoOficinaPredictivo =='')? null : this.form.value.TelefonoOficinaPredictivo,
                 Tipificacion: (valor_tipificacion == '' ) ? null : valor_tipificacion,
+                GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',                ',
                 EtapaProcesoVentaGUID : (this.etapaprocesoventaid == '') ? null : this.etapaprocesoventaid,
             };
 
