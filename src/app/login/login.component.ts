@@ -113,7 +113,7 @@ export class LoginComponent implements OnInit {
     }
 
     if (localStorage.getItem('user') == null && this.getParameterByName('code') == '' && this.getParameterByName('access_token') == '') {
-      window.location.href = "https://login.microsoftonline.com/346a1d1d-e75b-4753-902b-74ed60ae77a1/oauth2/authorize?client_id=a8399c04-2d08-44c8-ac84-2ad578e8a1ae&response_type=code&redirect_uri=http://localhost:4200&response_mode=query&resource=https://laulatammxqa.crm.dynamics.com"; 
+      window.location.href = "https://login.microsoftonline.com/346a1d1d-e75b-4753-902b-74ed60ae77a1/oauth2/authorize?client_id=a8399c04-2d08-44c8-ac84-2ad578e8a1ae&response_type=code&redirect_uri=http://10.210.159.46&response_mode=query&resource=https://laulatammxqa.crm.dynamics.com"; 
       //window.location.href = "https://login.microsoftonline.com/346a1d1d-e75b-4753-902b-74ed60ae77a1/oauth2/authorize?client_id=7c8db090-1712-47dd-aa0b-f34d5357893e&response_type=code&redirect_uri=http://localhost:4200&response_mode=query&resource=https://laulatammxqa.crm.dynamics.com";
     }else{
       this.onGoto('/home');
