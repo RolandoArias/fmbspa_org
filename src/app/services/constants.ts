@@ -6,7 +6,7 @@ export class AppConfig{
   API_URL_PROD = 'http://10.210.159.46/fmbapp_qa/public/api/';
   API_URL_DEV = 'http://10.210.159.46/fmbapp_qa/public/api/';
   API_URL_DEBUG = "https://localhost/unitec-back/public/api/";
-  API_DEBUG = "http://localhost:4200/";
+  API_DEBUG = "http://10.210.159.46/";
 
   public SIMBOLOS_microregistro = "0123456789¬@|!#ú$%&/()?¿{}[]+*~°ÁÃÀÄÂÉËÈÊÍÏÌÎÓÖÒÔÚÜÙÛÑÇáãàäâéëèêíïìîóöòôúüùûñç";
 

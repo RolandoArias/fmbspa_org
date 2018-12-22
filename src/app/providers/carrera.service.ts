@@ -19,7 +19,7 @@ export class CarreraService {
 
 
    getAll() {
-    this.http.get("http://localhost:4200/assets/carrera.json", {headers: this.headers})
+    this.http.get("http://10.210.159.46/assets/carrera.json", {headers: this.headers})
         .map(
           (res: Response) => res.json()
         )

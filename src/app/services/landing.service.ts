@@ -12,8 +12,8 @@ import { Palabra } from '../interfaces/palabra';
 export class LandingService {
 
 
-	configUrl = "http://localhost:4200/assets/palabras_basura.json";
-	mesajesUrl = "http://localhost:4200/assets/mensajes_validaciones.json";
+	configUrl = "http://10.210.159.46/assets/palabras_basura.json";
+	mesajesUrl = "http://10.210.159.46/assets/mensajes_validaciones.json";
 
   	constructor(private http: HttpClient) { }
 
