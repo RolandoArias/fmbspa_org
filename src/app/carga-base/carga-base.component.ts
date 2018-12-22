@@ -211,7 +211,7 @@ export class CargaBaseComponent implements OnInit {
 
   fetchs(cb) {
     const req = new XMLHttpRequest();
-    req.open('GET', `http://localhost:8000/api/campus_carreras`);
+    req.open('GET', `http://10.210.159.46/fmbapp_qa/public/api/campus_carreras`);
     req.onload = () => {
       cb(JSON.parse(req.response));
     };
@@ -220,7 +220,7 @@ export class CargaBaseComponent implements OnInit {
 
   fetchs_modalidad(cb) {
     const req = new XMLHttpRequest();
-    req.open('GET', `http://localhost:8000/api/modalidad`);
+    req.open('GET', `http://10.210.159.46/fmbapp_qa/public/api/modalidad`);
     req.onload = () => {
       cb(JSON.parse(req.response));
     };
@@ -229,7 +229,7 @@ export class CargaBaseComponent implements OnInit {
 
   fetchs_nivel(cb) {
     const req = new XMLHttpRequest();
-    req.open('GET', `http://localhost:8000/api/nivel_estudios`);
+    req.open('GET', `http://10.210.159.46/fmbapp_qa/public/api/nivel_estudios`);
     req.onload = () => {
       cb(JSON.parse(req.response));
     };
@@ -238,7 +238,7 @@ export class CargaBaseComponent implements OnInit {
 
   fetchs_escuela_empresa(cb) {
     const req = new XMLHttpRequest();
-    req.open('GET', `http://localhost:8000/api/escuela_empresa`);
+    req.open('GET', `http://10.210.159.46/fmbapp_qa/public/api/escuela_empresa`);
     req.onload = () => {
       cb(JSON.parse(req.response));
     };

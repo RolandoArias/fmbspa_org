@@ -3,8 +3,8 @@ import { Injectable } from '@angular/core';
 Injectable()
 export class AppConfig{
 
-  API_URL_PROD = 'http://localhost:8000/api/';
-  API_URL_DEV = 'http://localhost:8000/api/';
+  API_URL_PROD = 'http://10.210.159.46/fmbapp_qa/public/api/';
+  API_URL_DEV = 'http://10.210.159.46/fmbapp_qa/public/api/';
   API_URL_DEBUG = "https://localhost/unitec-back/public/api/";
   API_DEBUG = "http://localhost:4200/";
 

@@ -12,7 +12,7 @@ export class AsesorService {
   constructor(private http: Http) { }
 
   getAll() : Observable<Asesor[]>{
-    return this.http.get("http://localhost:8000/api/asesor", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/asesor", {headers: this.headers})
    // return this.http.get("https://devmx.com.mx/fmbspa/src/assets/Asesor_cita.json", {headers: this.headers})
                .map(
                  (res: Response) => res.json()

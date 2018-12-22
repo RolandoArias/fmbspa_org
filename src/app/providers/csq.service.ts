@@ -16,7 +16,7 @@ export class CsqService {
   private csqs: Csq[] = [];
 
   getAll(){
-    //this.http.get("http://localhost:8000/api/csq", {headers: this.headers})
+    //this.http.get("http://10.210.159.46/fmbapp_qa/public/api/csq", {headers: this.headers})
     this.http.get(this.api_cnn+"csq", {headers: this.headers})
         .map(
           (res: Response) => res.json()

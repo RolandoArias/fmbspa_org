@@ -32,7 +32,7 @@ export class ModalidadService {
 
 
  getAll2(): Observable<Modalidad[]>{
-    return this.http.get("http://localhost:8000/api/modalidad", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/modalidad", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

@@ -12,7 +12,7 @@ export class CicloService {
   constructor(private http: Http) { }
 
   getAll(): Observable<Ciclo[]>{
-    return this.http.get("http://localhost:8000/api/ciclo", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/ciclo", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

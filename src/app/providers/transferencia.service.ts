@@ -12,7 +12,7 @@ export class TransferenciaService {
   constructor(private http: Http) { }
 
   getAll() : Observable<Transferencia[]>{
-    return this.http.get("http://localhost:8000/api/transferencia", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/transferencia", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

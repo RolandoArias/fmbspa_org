@@ -13,7 +13,7 @@ export class CanalService {
   constructor(private http: Http) { }
 
   getAll(): Observable<Canal[]>{
-    return this.http.get("http://localhost:8000/api/canales", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/canales", {headers: this.headers})
            .map(
               (data: Response) => data.json()
            )

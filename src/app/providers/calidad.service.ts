@@ -13,7 +13,7 @@ export class CalidadService {
   constructor(private http: Http) { }
 
   getAll() {
-    this.http.get("http://localhost:8000/api/calidad", {headers: this.headers})
+    this.http.get("http://10.210.159.46/fmbapp_qa/public/api/calidad", {headers: this.headers})
         .map(
           (res: Response) => res.json()
         )

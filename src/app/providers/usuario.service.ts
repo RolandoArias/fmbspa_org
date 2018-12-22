@@ -16,7 +16,7 @@ export class UsuarioService {
   constructor(private http: Http, private constante: AppConfig) { }
 
   getAll() : Observable<Usuario[]>{
-    return this.http.get("http://localhost:8000/api/usuario", {headers: this.headers})
+    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/usuario", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

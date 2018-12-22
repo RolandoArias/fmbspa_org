@@ -262,7 +262,7 @@ export class ReferidoWebComponent implements OnInit {
         // $.ajax(settings2).done(function (response){
         //   var user = JSON.stringify(response)
         //   localStorage.setItem('user',user);
-        //   $.ajax('http://localhost:8000/api/roles/'+response.domainname,
+        //   $.ajax('http://10.210.159.46/fmbapp_qa/public/api/roles/'+response.domainname,
         //     {
         //        //data: {user_id:''},
         //         contentType: 'application/json',
