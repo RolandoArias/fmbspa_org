@@ -1,0 +1,25 @@
+.upload {
+    width: 58%;
+    margin-left: 21%;
+    .head-blue {
+        text-align: left !important;
+        padding-left: 10%;
+    }
+}
+
+.form {
+    border: 1px solid #cccccc;
+    padding: 20px 10%;
+    background-color: #ffffff;
+    mat-form-field {
+        width: 100%;
+    }
+    .btn {
+        text-align: right;
+        margin-top: -15px;
+        button {
+            background-color: #f68b1f !important;
+            width: 150px;
+        }
+    }
+}

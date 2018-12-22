@@ -1,0 +1,28 @@
+.login{
+  width: 40%;
+  margin-left: 30%;
+}
+
+.head-blue {
+  text-align: left !important;
+  padding: 10px 10px 10px 20% !important;
+}
+
+.form{
+  border: 1px solid #cccccc;
+  padding: 20px 20%;
+  background-color: #ffffff;
+
+  mat-form-field{
+    width: 100%;
+  }
+
+  .btn{
+    text-align: right;
+
+    button{
+      background-color: #f68b1f !important;
+      width: 150px;
+    }
+  }
+}

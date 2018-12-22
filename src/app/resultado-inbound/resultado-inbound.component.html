@@ -1,0 +1,53 @@
+<style>
+    .mat-grid-tile {
+        font-size: 10px !important;
+    }
+</style>
+<div class="results">
+    <div class="head-blue">
+        RESULTADOS DE BÚSQUEDA
+    </div>
+
+    <div class="tablee mat-elevation-z8" *ngIf="cantidad>0">
+        <mat-grid-list cols="8" rowHeight="50px">
+            <mat-grid-tile class="headd">Selección</mat-grid-tile>
+            <mat-grid-tile class="headd">Número de Cuenta</mat-grid-tile>
+            <mat-grid-tile class="headd">ID Persona</mat-grid-tile>
+            <mat-grid-tile class="headd">Nombre Completo</mat-grid-tile>
+            <mat-grid-tile class="headd">Nivel de Ínteres</mat-grid-tile>
+            <mat-grid-tile class="headd">Correo Electrónico</mat-grid-tile>
+            <mat-grid-tile class="headd">Último Asesor Asignado</mat-grid-tile>
+            <mat-grid-tile class="headd last">Oportunidad</mat-grid-tile>
+
+
+            <ng-container *ngFor="let r of reesults;">
+                <mat-grid-tile class="data">
+                    <mat-checkbox value="{{r.leadid}}" (change)="showLead($event)"></mat-checkbox>
+                </mat-grid-tile>
+                <mat-grid-tile class="data">{{r.crmit_nocuentasis}}</mat-grid-tile>
+                <mat-grid-tile class="data">{{r.crmit_nopersona}}</mat-grid-tile>
+                <mat-grid-tile class="data">{{r.fullname}}</mat-grid-tile>
+                <mat-grid-tile class="data"></mat-grid-tile>
+                <mat-grid-tile class="data">{{r.emailaddress1}}</mat-grid-tile>
+                <mat-grid-tile class="data ">{{r._crmit_asesorlineaid_value}}</mat-grid-tile>
+                <mat-grid-tile class="data last"><a href='{{r.crmit_urloportunidad}}' target='_blank'>{{r.leadid}}</a></mat-grid-tile>
+
+            </ng-container>
+        </mat-grid-list>
+    </div>
+    <div class="btn" *ngIf="cantidad>2">
+        Favor de especificar más datos para su búsqueda
+    </div>
+    <div *ngIf="cantidad<1">
+        <h3 style="text-align: center;">Sin Resultados</h3>
+        <button mat-raised-button color="warn" class="cancel" (click)="cancel()">Regresar</button>
+
+    </div>
+
+    <div class="btn" *ngIf="cantidad>0">
+        <button mat-raised-button color="warn" class="selec" (click)="seleccionarLead()">SELECCIONAR</button>
+        <button mat-raised-button color="warn" class="cancel" (click)="cancel()">CANCELAR</button>
+        <button mat-raised-button color="warn" (click)="onGoto('/register')">NUEVO</button>
+    </div>
+
+</div>s

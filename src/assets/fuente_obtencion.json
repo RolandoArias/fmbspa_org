@@ -1,0 +1,22 @@
+[
+{"fuente_name":"SOCIAL","fuente_GUID":"a9e2c67d-7cc7-e711-bd7b-0050568d5ea9","Activo":"Activo","abreviatura":"SOC"},
+{"fuente_name":"INBOUND CAMPUS","fuente_GUID":"87d5e8ab-5064-e411-86f7-005056be4250","Activo":"Activo","abreviatura":"INBC"},
+{"fuente_name":"CHAT","fuente_GUID":"2a6fb356-7775-e211-a7b5-3440b5bef8e4","Activo":"Activo","abreviatura":"CHAT"},
+{"fuente_name":"FUENTE PRUEBA","fuente_GUID":"69a0f560-2443-e811-810f-3863bb3c31e0","Activo":"Activo","abreviatura":"FT"},
+{"fuente_name":"TEST REGRESOS","fuente_GUID":"e31ce896-247b-e811-8124-3863bb3c31e0","Activo":"Activo","abreviatura":"REG"},
+{"fuente_name":"ABSORCION","fuente_GUID":"2489dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"ABS"},
+{"fuente_name":"BD EXTERNA","fuente_GUID":"2689dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"BDEXT"},
+{"fuente_name":"CIERRE DE PROSPECTOS","fuente_GUID":"2889dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"CIERRE"},
+{"fuente_name":"EVENTOS ESPECIALES","fuente_GUID":"2a89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"EVEN"},
+{"fuente_name":"EXALUMNOS","fuente_GUID":"2c89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"EXA"},
+{"fuente_name":"INBOUND","fuente_GUID":"2e89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"INB"},
+{"fuente_name":"PROMOCION","fuente_GUID":"3089dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"PROM"},
+{"fuente_name":"REFERIDOS","fuente_GUID":"3289dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"REF"},
+{"fuente_name":"REGRESOS","fuente_GUID":"3489dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"REG"},
+{"fuente_name":"REINSCRIPCIONES","fuente_GUID":"3689dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"REINS"},
+{"fuente_name":"RETENCION","fuente_GUID":"3889dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"RET"},
+{"fuente_name":"SIN FUENTE","fuente_GUID":"3a89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"SF"},
+{"fuente_name":"SOLOVINOS","fuente_GUID":"3c89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"SOLV"},
+{"fuente_name":"TELEMARKETING","fuente_GUID":"3e89dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"TLMK"},
+{"fuente_name":"WEB","fuente_GUID":"4089dd13-6072-e211-b35f-6cae8b2a4ddc","Activo":"Activo","abreviatura":"WEB"}
+]

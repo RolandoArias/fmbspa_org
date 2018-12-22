@@ -1,0 +1,2003 @@
+﻿[
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBREY",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "WEBFORANEO",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1WEBONLGDP",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2WEBONLGDP",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3WEBONLGDP",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": "CHAT",
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "3"
+	},
+	{
+		"FuenteObtencion": ""
+	}
+]

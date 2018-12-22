@@ -1,0 +1,2378 @@
+[
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"BL": "PREPARATORIA",
+		"TEAM": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"BL": "PREPARATORIA",
+		"TEAM": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"BL": "PREPARATORIA",
+		"TEAM": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "MARINA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "MARINA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "MARINA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "QUERETARO",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "QUERETARO",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "QUERETARO",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "CIENCIAS DE LA SALUD",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA CORP",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "LICENCIATURA ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ODONTOLOGIA",
+		"TEAM": "WEBSLD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "POSGRADO ONLINE",
+		"TEAM": "WEBADU",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"BL": "PREPARATORIA",
+		"TEAM": "WEBTRD",
+		"Prioridad": "5",
+		"Attemp": "1"
+	}
+]

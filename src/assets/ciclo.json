@@ -1,0 +1,8 @@
+[
+    { "crmit_codigounico": "4c1a4eff-e57b-e811-8124-3863bb3c31e0", "crmit_name": "20-2", "crmit_ciclovigenteventas": "False", "Activo": "Activo", "nombreventas": "C1", "nombremes": "Enero" },
+    { "crmit_codigounico": "6fa95596-16ef-e611-a5d4-005056be4250", "crmit_name": "19-1", "crmit_ciclovigenteventas": "False", "Activo": "Activo", "nombreventas": "C3", "nombremes": "Septiembre" },
+    { "crmit_codigounico": "8026c76c-4bee-e611-a5d4-005056be4250", "crmit_name": "18-3", "crmit_ciclovigenteventas": "True", "Activo": "Activo", "nombreventas": "C2", "nombremes": "Mayo" },
+    { "crmit_codigounico": "c692d38b-c2c0-e711-bd7b-0050568d5ea9", "crmit_name": "19-2", "crmit_ciclovigenteventas": "False", "Activo": "Activo", "nombreventas": "C1", "nombremes": "Enero" },
+    { "crmit_codigounico": "f4f918ba-1544-e811-810d-3863bb3c4538", "crmit_name": "20-1", "crmit_ciclovigenteventas": "False", "Activo": "Activo", "nombreventas": "C3", "nombremes": "Septiembre" },
+    { "crmit_codigounico": "f51aeac0-93ad-e411-af3d-005056be4250", "crmit_name": "17-1", "crmit_ciclovigenteventas": "False", "Activo": "Activo", "nombreventas": "C3", "nombremes": "Septiembre" }
+]

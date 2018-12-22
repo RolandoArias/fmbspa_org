@@ -1,0 +1,19 @@
+<mat-sidenav-container class="example-container">
+    <mat-sidenav #sidenav mode="side">
+        <ul class="menus2">
+            <li *ngFor="let lan of landings;" (click)="onGoto(lan.landing_url)">
+                <a>{{ lan.landing }}</a>
+            </li>
+
+            <li><a (click)="onLogout()">Cerrar Sesion</a></li>
+        </ul>
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <div class="logo" *ngIf="onMenu2()!='no'">
+            <a routerLink="menu"><img src="/assets/imgs/logo.png"></a>
+        </div>
+        <p *ngIf="onMenu()!='no'"><button style="background: #006fba !important; color: #fff !important;" mat-button (click)="sidenav.toggle()">Menu</button></p>
+
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

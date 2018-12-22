@@ -1,0 +1,136 @@
+<form [formGroup]="form">
+    <div class="register">
+        <div class="form no_border">
+            <mat-grid-list class="" cols="2" rowHeight="70px">
+                <mat-grid-tile>
+                    <mat-form-field>
+                        <input matInput placeholder="Referente" formControlName="Usuario" readonly>
+                    </mat-form-field>
+                </mat-grid-tile>
+                <mat-grid-tile>
+                    &nbsp;
+                </mat-grid-tile>
+            </mat-grid-list>
+        </div>
+    </div>
+    <div class="register">
+        <div class="head-blue mt">
+            INGRESA LOS DATOS DE TU REFERIDO
+        </div>
+        <div class="form2">
+            <div style="width: 50%;float: left;display: block;">
+                <div style="width: 96%;float: left;display: block;">
+                    <mat-form-field>
+                        <input required autocomplete="off" formControlName="Nombre" class="mayusculas" minlength="3" maxLength="50" matInput placeholder="Nombre" (keypress)="_keyPressTxt($event)" (keypress)="_keyOnly3letter($event,form.controls.Nombre.value)" (change)="onChange()">
+                        <mat-error *ngIf="form.controls.Nombre.errors?.required">{{showMjs('nombre.m1')}} </mat-error>
+                        <mat-error *ngIf="form.controls.Nombre.errors?.palabraMala && !form.controls.Nombre.errors?.required">{{showMjs('nombre.m2')}}</mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                        <input required autocomplete="off" formControlName="ApellidoPaterno" class="mayusculas" minlength="3" maxLength="50" matInput placeholder="Apellido Paterno" (keypress)="_keyPressTxt($event)" (keypress)="_keyOnly3letter($event,form.controls.ApellidoPaterno.value)"
+                            (change)="onChange()">
+                        <mat-error *ngIf="form.controls.ApellidoPaterno.errors?.required">{{showMjs('paterno.m1')}}</mat-error>
+                        <mat-error *ngIf="form.controls.ApellidoPaterno.errors?.palabraMala && !form.controls.ApellidoPaterno.errors?.required">{{showMjs('paterno.m2')}}</mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                        <input required autocomplete="off" formControlName="ApellidoMaterno" class="mayusculas" minlength="3" maxLength="50" matInput placeholder="Apellido Materno" (keypress)="_keyPressTxt($event)" (keypress)="_keyOnly3letter($event,form.controls.ApellidoMaterno.value)"
+                            (change)="onChange()">
+                        <mat-error *ngIf="form.controls.ApellidoMaterno.errors?.required">{{showMjs('materno.m1')}}</mat-error>
+                        <mat-error *ngIf="form.controls.ApellidoMaterno.errors?.palabraMala && !form.controls.ApellidoMaterno.errors?.required">{{showMjs('materno.m2')}}</mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                        <input autocomplete="off" formControlName="CorreoElectronico" maxLength="50" class="mayusculas" matInput placeholder="Correo Electrónico" required (change)="onChange()">
+                        <mat-error *ngIf="form.controls.CorreoElectronico.errors?.required">{{showMjs('correo.m1')}}</mat-error>
+                        <mat-error *ngIf="form.controls.CorreoElectronico.errors?.emailMalo && !form.controls.CorreoElectronico.errors?.required">{{showMjs('correo.m2')}} </mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                        <input autocomplete="off" formControlName="Telefono" (keyup)="ActualizacionCorreo_con_Tel($event, form.controls.Telefono.value)" (keydown)="ActualizacionCorreo_con_Tel($event, form.controls.Telefono.value)" (keypress)="ActualizacionCorreo_con_Tel($event, form.controls.Telefono.value)"
+                            (keypress)="_keyPressTelefono($event, form.controls.Telefono.value)" matInput placeholder="Teléfono" required minlength="10" maxlength="10" type="tel" (keypress)="_keyPress($event)" (keypress)="_keyPressNumA($event,form.controls.Telefono.value)"
+                            (change)="onChange()">
+                        <mat-error *ngIf="form.controls.Telefono.errors?.required">{{showMjs('telefono.m1')}}</mat-error>
+                        <mat-error *ngIf="form.controls.Telefono.errors?.minlength && !form.controls.Telefono.errors?.required  && !form.controls.Telefono.errors?.numberCon">{{showMjs('telefono.m2')}}</mat-error>
+                        <mat-error *ngIf="form.controls.Telefono.errors?.aceptNumber  && !form.controls.Telefono.errors?.minlength">{{showMjs('telefono.m3')}}</mat-error>
+                        <mat-error *ngIf="form.controls.Telefono.errors?.numberCon  &&  form.controls.Telefono.errors?.minlength && !form.controls.Telefono.errors?.aceptNumber">{{showMjs('celular.m3')}}</mat-error>
+                    </mat-form-field>
+                    <mat-form-field *ngIf="this.form.controls.tipoCel.value=='Oficina'">
+                        <input autocomplete="off" formControlName="extension" matInput placeholder="Extension" type="tel" (keypress)="_keyPress($event)">
+                        <mat-error *ngIf="form.controls.extension.errors?.required">Ingresa una extension</mat-error>
+                    </mat-form-field>
+
+                    <mat-radio-group class="radio-group" formControlName="tipoCel" required onChange style="padding-left: 10px;" (keyup)="onChange()">
+                        <mat-radio-button value="Celular"> Celular </mat-radio-button>
+                        <mat-radio-button value="Casa"> Casa </mat-radio-button>
+                        <mat-radio-button value="Oficina"> Oficina </mat-radio-button>
+                    </mat-radio-group>
+
+
+                </div>
+            </div>
+            <div style="width: 50%;float: left;display: block;">
+                <mat-form-field>
+                    <mat-select formControlName="Campus" placeholder="Campus" (change)="onChangeInteres(form.controls.Campus.value)" (change)="onChangeCampus(form.controls.Campus.value)">
+                        <mat-option value="">Selecciona una opción</mat-option>
+                        <mat-option *ngFor="let campu of campus;" [value]="campu['crmit_tb_campusid']+'*'+campu['crmi_name']">
+                            {{ campu['crmi_name'] }}
+                        </mat-option>
+                    </mat-select>
+                    <mat-error *ngIf="form.controls.Campus.errors?.required">{{showMjs('campus.m1')}}</mat-error>
+                </mat-form-field>
+                <mat-form-field>
+                    <mat-select formControlName="Nivel" placeholder="Nivel" (change)="onChangeInteres(form.controls.Nivel.value)" (change)="onChangeNivel(form.controls.Nivel.value)">
+                        <mat-option value="">Selecciona una opción</mat-option>
+                        <mat-option *ngFor="let nivel of niveles;" [value]="nivel['crmit_codigounico']+'*'+nivel['crmit_name']">
+                            {{ nivel['crmit_name'] }}
+                        </mat-option>
+                    </mat-select>
+                    <mat-error *ngIf="form.controls.Nivel.errors?.required">{{showMjs('nivel.m1')}}</mat-error>
+                </mat-form-field>
+                <mat-form-field>
+                    <mat-select formControlName="Modalidad" placeholder="Modalidad" (change)="onChangeInteres(form.controls.Modalidad.value)" (change)="onChangeModalidad(form.controls.Modalidad.value)">
+                        <mat-option value="">Selecciona una opción</mat-option>
+                        <mat-option *ngFor="let modalidad of modalidades;" [value]="modalidad['crmit_codigounico']+'*'+modalidad['crmit_name']">
+                            {{ modalidad['crmit_name'] }}
+                        </mat-option>
+                    </mat-select>
+                    <mat-error *ngIf="form.controls.Modalidad.errors?.required">{{showMjs( 'modalidad.m1')}}</mat-error>
+                </mat-form-field>
+                <mat-form-field>
+                    <mat-select formControlName="Carrera" placeholder="Carrera" (change)="onChangeInteres(form.controls.Carrera.value)">
+                        <mat-option value="">Selecciona una opción</mat-option>
+                        <mat-option *ngFor="let carrera of carreras;" [value]="carrera['codigounico']+'*'+carrera['name']+'*'+carrera['BL']+'*'+carrera['Activo']">
+                            {{ carrera['name'] }}
+                        </mat-option>
+                    </mat-select>
+                    <mat-error *ngIf="form.controls.Carrera.errors?.required">{{showMjs( 'carrera.m1')}}</mat-error>
+                </mat-form-field>
+            </div>
+            <div style="clear: both; height: 0; display: block;"></div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-sm-12" style="float:right; text-align: right;">
+
+                <div class="btn">
+                    <button mat-raised-button color="warn" (click)="resetForm()" class="cancel btn_110">CANCELAR</button>
+                    <button mat-raised-button color="warn" (click)="onSubmit()" name="Submit" id="Submit" class="btn_110">GUARDAR</button>
+                </div>
+
+            </div>
+        </div>
+
+        <!--<mat-grid-list cols="2" rowHeight="70px" style="margin-bottom: 50px;">
+        <mat-grid-tile class="le">
+        </mat-grid-tile>
+        <mat-grid-tile>
+            <div class="btn">
+                <button mat-raised-button color="warn" (click)="resetForm()" class="cancel">CANCELAR</button>
+                <button mat-raised-button color="warn" (click)="onSubmit()">GUARDAR</button>
+            </div>
+        </mat-grid-tile>
+    </mat-grid-list>-->
+        <mat-grid-list cols="2" rowHeight="70px" style="margin-bottom: 50px;">
+            <div style="font-size: 12px; color:brown; font-weight: bold;">v. 1.1.11</div>
+        </mat-grid-list>
+
+    </div>
+</form>

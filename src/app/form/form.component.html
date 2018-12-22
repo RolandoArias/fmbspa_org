@@ -1,0 +1,7 @@
+<ul class="menus">
+    <h4 style="text-align: right; font-size: 14px; font-weight: 900; color: #006fba;">Hola: {{ me.fullname }}</h4>
+    <li *ngFor="let lan of landings;" (click)="onGoto(lan.landing_url)">
+         <a>{{ lan.landing }}</a>
+    </li>
+    <li><a (click)="onLogout()">Cerrar Sesion</a></li>              
+</ul>

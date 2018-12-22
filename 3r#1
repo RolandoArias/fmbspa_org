@@ -1,0 +1,514 @@
+[33mcommit bebb1efc09538ce3b490f77b5834509dbcd03e31[m[33m ([m[1;36mHEAD -> [m[1;32mdeveloper[m[33m, [m[1;31morigin/developer[m[33m)[m
+Author: mickdilon <ingmiguelangelgc@live.com>
+Date:   Wed Jul 4 17:46:53 2018 -0500
+
+    Texto limpio
+
+[33mcommit 433713042e725288f08113ad2a5e03017f0d7a50[m
+Author: mickdilon <ingmiguelangelgc@live.com>
+Date:   Wed Jul 4 17:19:33 2018 -0500
+
+    Test donde solo cargo -- a new-register
+
+[33mcommit d8072be0bc397186b80eff8349954ee99a11ed05[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Wed Jul 4 15:43:22 2018 -0600
+
+    TEst Uplaod
+
+[33mcommit 5d53bdbd7acfad13437d1b99a95ef3450c3a7b29[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Wed Jul 4 14:54:57 2018 -0600
+
+    Agregando Asesor JSON
+
+[33mcommit 2bbeaf164b732e64f16e657d6b3e064e69764614[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Mon Jul 2 17:05:36 2018 -0600
+
+    Upload files
+
+[33mcommit 45df03dec721738ca12901f38acede72cafcf765[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Fri Jun 29 17:06:02 2018 -0600
+
+    Actualizando register inbound y upload base
+
+[33mcommit 855baa81a2c9f097ee7f7246d5316db53e39259f[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Wed Jun 27 16:45:02 2018 -0600
+
+    Actualizando referido tlmk
+
+[33mcommit 113d5ddd3a6127b96a5db85c40abb276ae110e3c[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Mon Jun 25 17:04:04 2018 -0600
+
+    Actualizacion de Inbound
+
+[33mcommit c321d41e3a2eb35039f613c635b72e1822d2be5e[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon Jun 25 13:48:33 2018 -0400
+
+    Actualizacion de Landing Carga Base
+
+[33mcommit a23201f876ff520e6dee73efa405511298211b43[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Fri Jun 22 16:59:19 2018 -0600
+
+    Actualizacion landing de Upload
+
+[33mcommit daaec063faa5ad8e5f3fd4c0f89505e055c8ef69[m
+Author: Rolando Arias <rolandarias74@gmail.com>
+Date:   Thu Jun 21 17:00:37 2018 -0600
+
+    Actualizacion de Referidos
+
+[33mcommit c897ba492dc47c74dc2ec7f328b8b08e867ac638[m
+Author: Rolando Arias <rolando@emkt.com.sv>
+Date:   Wed Jun 20 16:58:26 2018 -0600
+
+    Actualizion de telefono y email
+
+[33mcommit a5741c6c80159c059abe354ba15dfa3ed62244ca[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Wed Jun 20 09:39:09 2018 -0400
+
+    Actualizacion de landings
+
+[33mcommit d4086e76fd189b01b07a8456b31870cc7d1f4174[m
+Merge: cb16903 49868bc
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon Jun 4 23:53:31 2018 -0400
+
+    Actulizando landing luego del ultimo merge
+
+[33mcommit 49868bc302747ca455e9938c026931377a59b25a[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Mon Jun 4 21:58:31 2018 -0500
+
+    fix formularios
+
+[33mcommit cb16903bade62ecfd3d6ac681ecedcbe3fdea25f[m
+Merge: 16821c3 26c1fcb
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon Jun 4 11:03:34 2018 -0400
+
+    Merge branch 'developer' of https://github.com/fmbdev/fmbspa into developer
+
+[33mcommit 16821c3488d59efc04304158ad11f00d722c3fb1[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon Jun 4 11:03:26 2018 -0400
+
+    actualizando interfaces y servidores
+
+[33mcommit 310bc8e135c44e47626a0e0b6c876ad6f600936b[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Mon Jun 4 00:10:31 2018 -0500
+
+    actualización de campos
+
+[33mcommit e2973a61c40dd30f2ff9e914cbd0d82426dc8d3f[m
+Merge: e39271c 26c1fcb
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Sun Jun 3 16:50:34 2018 -0500
+
+    Merge branch 'developer' into external_front_omar
+
+[33mcommit 26c1fcb8947f863b2190a45928d3aa06a6875d84[m[33m ([m[1;31morigin/hags_developer[m[33m)[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 31 20:02:06 2018 -0500
+
+    Actualizando data en los archivos json Campus, Carrera, Modalidad, Nivel y Area de Interes.
+
+[33mcommit a87d18647d1ecd73675d99d35e6d3272a8cc6186[m
+Merge: 9420577 e39271c
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Tue May 29 08:47:31 2018 -0400
+
+    Merge remote-tracking branch 'origin/external_front_omar' into developer
+
+[33mcommit 9420577eca313680975bf7dfb2605162f1d68f3d[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Tue May 29 08:47:08 2018 -0400
+
+    Actulizando formato de fecha y endpoints
+
+[33mcommit e39271c6d165e48f92ac10dea23b61561f52a989[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Mon May 28 22:32:21 2018 -0500
+
+    Cambio de nombre al campo
+
+[33mcommit 0a78e859b89bc5d86d35d4fc93bb48613d8ffd6f[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Sat May 26 08:36:15 2018 -0500
+
+    Modificaciones de campos
+
+[33mcommit bb714bce12e2b5004d0d30c6bb31fc4fd6c8030f[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Sat May 26 08:34:09 2018 -0500
+
+    se agregarón nuevos campos
+
+[33mcommit fa6036e5e3f8c367f6af5a6f58dee55fcf8802e9[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Fri May 25 22:39:25 2018 -0500
+
+    debug active
+
+[33mcommit 2b938e1a6692b3c7d52d8f2e9eb24e4310fc1fae[m
+Merge: 210ace5 58c607d
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Fri May 25 21:35:02 2018 -0500
+
+    Merge branch 'developer' into external_front_omar
+
+[33mcommit 58c607ddcfb6b4433c96731a964a41311b1204b6[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 25 16:53:57 2018 -0400
+
+    Actualizando Campos de RegisterSolo para CRM
+
+[33mcommit dac7d73bafb8bcd44418331db2023f1839ebf3aa[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 25 13:42:41 2018 -0400
+
+    Actualizando Campos de RegisterPRomotion para CRM
+
+[33mcommit 78272ea8d6f955302b9c2ee0d1e99a1df8869b3e[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 22:22:11 2018 -0400
+
+    Actualizando Campo Genero
+
+[33mcommit 210ace5fa14d4143d01b950cf7075f7f96accfed[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Thu May 24 18:21:19 2018 -0500
+
+    agregar metodo logout a función de inactividad de usuario
+
+[33mcommit 0d011094cefc9dfe645ab84a13ff177126548371[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 18:22:49 2018 -0400
+
+    Actualizando GUID
+
+[33mcommit b9c5feb663bcc12922d7b4b5e0bd075d1ce0d8eb[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 16:56:32 2018 -0400
+
+    Agregar servicio validacion de telefono
+
+[33mcommit 1dddc756ad8a7e5e80f376af72d25a252d41d1eb[m
+Merge: 22b4534 f7ede04
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 12:50:08 2018 -0400
+
+    Actualizando cambios de la rama de Omar
+
+[33mcommit 29aee1515e375e137ade4dda78f04ff43208762e[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Thu May 24 11:38:12 2018 -0500
+
+    close button
+
+[33mcommit 22b4534ff1017ffbacf5047f397aaaea7e5e243a[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 05:22:30 2018 -0400
+
+    Agregando GUID a landig referidos
+
+[33mcommit 44479f27a6658e17872fe135be1fbe590207a4e4[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 03:48:45 2018 -0400
+
+    Actualizando Campos GUID
+
+[33mcommit c56279a52562dd6746de6419cc8b6d4d03aaba2e[m
+Merge: c0cf15d cb4e440
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 03:37:02 2018 -0400
+
+    Merge branch 'developer' of https://github.com/fmbdev/fmbspa into developer
+
+[33mcommit c0cf15db56a6ee218c2b4f965edbe64d0c570ed8[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 24 03:36:49 2018 -0400
+
+    Actualizando Campos GUID
+
+[33mcommit cb4e44089d07f65980427245611c3a873750b340[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 24 02:05:54 2018 -0500
+
+    Solucionando problema con campos dependientes escuela_empresa y calidad.
+
+[33mcommit b74ffdbb6a117802affceec2c714ee6916310449[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 24 00:44:18 2018 -0500
+
+    Agregando metodo para campo dependiente escuela_empresa y calidad y modificando el envio de data a endpoint segun el marcado del checkbox SinCorreo.
+
+[33mcommit f7ede04e3f0551713c278d5aea6cbcac39b3bffb[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Wed May 23 22:39:22 2018 -0500
+
+    validaciones de sin correo
+
+[33mcommit 4aba7b2c590404e36955c1495ffa10314dda3357[m
+Merge: b85b1e0 cf545de
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Wed May 23 18:41:12 2018 -0500
+
+    Merge branch 'developer' into external_front_omar
+    
+    # Conflicts:
+    #       src/app/login/login.component.ts
+
+[33mcommit b85b1e012e5d1df9457a3ae00fedc94c949f243f[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Wed May 23 18:38:23 2018 -0500
+
+    modificacion urls
+
+[33mcommit cf545de0d0bfa0deb3c91ed85863d786ec3c2daa[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Wed May 23 18:40:34 2018 -0400
+
+    Agregando GUID: carrera,modalidad,Nivel, Campus
+
+[33mcommit fd56d6167da2e9581ad3e8e8446071dee69de456[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Wed May 23 01:08:14 2018 -0400
+
+    Agregando accciones a botones de registerSolo
+
+[33mcommit d1f4803db93687065b0de26b71552db2a881017a[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Tue May 22 18:39:49 2018 -0400
+
+    GUID content
+
+[33mcommit a7f527a6cad4e7a2b571676b4cd32a33c51910bb[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Tue May 22 15:13:19 2018 -0400
+
+    Actualizando validaciones y autentificacion
+
+[33mcommit dccc3da8818cd6124cf4377b9d05a71eb9e83f7d[m
+Merge: 34168d6 85dde54
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Mon May 21 23:47:03 2018 -0500
+
+    Merge branch 'developer' into external_front_omar
+    
+    # Conflicts:
+    #       src/app/login/login.component.ts
+
+[33mcommit 85dde54dd2d3d7b2ed87c6c2e3cdd40e9381ba48[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 18 10:07:38 2018 -0400
+
+    Actualizacion de performance
+
+[33mcommit 34168d6086dee035d16f1397b8252c49bfa41f95[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Fri May 18 02:12:11 2018 -0500
+
+    10 minutos de espera de in actividad para sacar de sesión
+
+[33mcommit b736ea27da19a9d3261668d95561d90674906e3f[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Fri May 18 02:09:11 2018 -0500
+
+    detección de actividad para romper sesión
+
+[33mcommit 319ecd6c52ef3391edaa3a8cbb9aa00734aa474a[m
+Merge: 11e9d3c 02f8de5
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Wed May 16 23:33:15 2018 -0500
+
+    Merge branch 'developer' into external_front_omar
+    
+    # Conflicts:
+    #       src/app/app.component.ts
+
+[33mcommit 11e9d3cb2a559555f88db3e75a08db0fd26328cb[m
+Author: o_caballero <omar.caballero@variv.com>
+Date:   Wed May 16 23:28:54 2018 -0500
+
+    configuración de rutas, cambio de llamadas de apis
+
+[33mcommit 02f8de5c9d33d93a4cbb6c551ad3aec4ba20b187[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Tue May 15 16:57:15 2018 -0400
+
+    Actualizando servicios de subSubActividad
+
+[33mcommit 24b87795fa5eb3a49545ebbbb7aaca63060595dd[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon May 14 13:32:21 2018 -0400
+
+    Actualizando
+
+[33mcommit a6b3fe19177617e721d7fd967568c2b76f07de23[m
+Merge: c6b0524 e7e6c4d
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon May 14 13:32:18 2018 -0400
+
+    Actualizando
+
+[33mcommit c6b05243f392340e36c0f789b98d6bc30aa6e41b[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Mon May 14 11:08:52 2018 -0400
+
+    Actualizacion de servicios
+
+[33mcommit e7e6c4d5e8b7e893c5201e9029804f8fa1e7a375[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Fri May 11 22:51:47 2018 -0500
+
+    Agregando servicio e interface para el recurso de actividad agenda
+
+[33mcommit d2f474716d3b3d6de04fa14f6ba51581061a54cf[m
+Merge: 14eb4b0 90e54b5
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Fri May 11 19:34:25 2018 -0500
+
+    Actualizando mi rama
+
+[33mcommit 14eb4b07d1d51185fbde3a244871789f593d13c0[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Fri May 11 19:32:33 2018 -0500
+
+    Actualizando mi rama
+
+[33mcommit 90e54b53c8e78cbeaf8a7664347ea25541aac158[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 11 20:27:45 2018 -0400
+
+    Actualizando endpoints
+
+[33mcommit 9dcf5ed3e255eef0a3b74633c73de738b2fb7c72[m
+Merge: cc50371 d431933
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Fri May 11 19:24:43 2018 -0500
+
+    Merge branch 'developer' into hags_developer
+
+[33mcommit cc503712edee365e09fac9412baaa6c8038dbc5d[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Fri May 11 19:23:24 2018 -0500
+
+    Actualizando mi rama
+
+[33mcommit d431933c26571950c8b22a876955230d85075513[m
+Merge: ff0d085 cd1751a
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 11 09:01:59 2018 -0400
+
+    Actualizando end point
+
+[33mcommit ff0d085ec50ca7d2cc81a210230640ad0a049c39[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Fri May 11 08:56:47 2018 -0400
+
+    Actualizando rutas
+
+[33mcommit cd1751aacd116535249c0a63c5239da86cf1bb6a[m
+Merge: d657bac 132fdb4
+Author: Erick Gama <gama.sur13@gmail.com>
+Date:   Fri May 11 03:16:34 2018 -0500
+
+    merge
+
+[33mcommit d657bac2670566c3a55291c8b2914e515a6bc8cf[m
+Author: Erick Gama <gama.sur13@gmail.com>
+Date:   Fri May 11 03:11:49 2018 -0500
+
+    cambios en envio de register y registersolo
+
+[33mcommit ea605b578be4cdddc486e596c2234dfd88862884[m
+Merge: 226bf60 132fdb4
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 10 22:55:28 2018 -0400
+
+    Merge branch 'developer' of https://github.com/fmbdev/fmbspa into developer
+
+[33mcommit 226bf60e417474e7cc40110a4834f259aafefef2[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 10 22:55:13 2018 -0400
+
+    ACtualizacion de endpoints
+
+[33mcommit 132fdb4ec91a403be9ecb22f9e3e0712a6a413da[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 20:34:55 2018 -0500
+
+    Arreglando bugs en los dropdows de registerPromotion, el dropdown de asesor y el dropdown de tipo en referedosWeb.
+
+[33mcommit 51363be22ebaaab1311b499cfcf62d6f14fcdb71[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 20:23:59 2018 -0500
+
+    Arreglando bugs en los dropdows de registerPromotion y el dropdown de asesor
+
+[33mcommit e6072a9048bb40054a576d14db74461a717796be[m
+Merge: 850be7b 3a0d12d
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 12:26:26 2018 -0500
+
+    Actualizando app.component.ts con servicio csq para campos dependientes
+
+[33mcommit 3a0d12d7584bbe02940c9f8fd0bc4fb59dbc8edf[m
+Merge: 645adee 5343a97
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 12:23:56 2018 -0500
+
+    Actualizando app.component.ts con servicio csq para campos dependientes
+
+[33mcommit 645adee67a03cb3afc9a4bfbe07f8383e29b2a82[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 12:15:50 2018 -0500
+
+    Actualizando app.component.ts con servicio csq para campos dependientes
+
+[33mcommit 850be7b5e0a2d54f4a054513b2c98ae82705b3bf[m
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Thu May 10 12:11:14 2018 -0500
+
+    Actualizando mi rama
+
+[33mcommit 5343a9766185d90671249271902404ecb362fdc1[m
+Merge: a9d05bd acb8578
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 10 10:30:36 2018 -0400
+
+    Actualizando endpoints Landing
+
+[33mcommit a9d05bda2890f919ded4b2dc11e2a6d1a6059e15[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Thu May 10 10:28:11 2018 -0400
+
+    Actualizando endpoints Landing
+
+[33mcommit acb8578a7ad7a115e0312be4b9fcb292421b52c5[m
+Author: fmbmx <rv@fmb.mx>
+Date:   Thu May 10 00:50:21 2018 -0500
+
+    Actualización endpoint scribe envío landing
+
+[33mcommit e0f6db1ce4e479ae3a412ddc91ae4db5e489b538[m
+Author: Damian Ruiz <damian.ruiz@colorcodestudio.com.mx>
+Date:   Wed May 9 22:22:40 2018 -0400
+
+    Cambios del merge
+
+[33mcommit 5db16e149eb7abe7869e6b37d94c25b6e34162a7[m
+Merge: 3a57008 bf94ea5
+Author: Alexander García <halexgs1987@gmail.com>
+Date:   Wed May 9 21:04:44 2018 -0500
+
+    Agregando metodo en csq-services para los campos dependientes canal y csq

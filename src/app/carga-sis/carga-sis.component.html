@@ -1,0 +1,36 @@
+<div class="upload">
+    <div class="head-blue">
+        CARGA DE BASE DE DATOS SIS
+    </div>
+    <div class="form">
+        <mat-grid-list cols="3" rowHeight="70px">
+            <mat-grid-tile [colspan]="2">
+                <mat-form-field>
+                    <input readonly matInput placeholder="Seleccionar Archivo" [(ngModel)]="newdata.filename" (click)="imgFileInput.click()">
+                    <input hidden type="file" #imgFileInput (change)="previewImage($event)" name="file" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel" />
+                </mat-form-field>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <div class="btn">
+                    <button mat-raised-button color="warn" (click)="Upload()">SUBIR</button>
+                </div>
+            </mat-grid-tile>
+            <mat-grid-tile [colspan]="2">
+                <mat-form-field>
+                    <mat-select placeholder="Tipo" name=Tipo #Tipo>
+                        <mat-option value="ABSORCION"></mat-option>
+                        <mat-option value="ABSORCION HSC">ABSORCION HSC</mat-option>
+                        <mat-option value="ABSORCION LX">ABSORCION LX</mat-option>
+                        <mat-option value="ABSORCION ONL">ABSORCION ONL</mat-option>
+                        <mat-option value="ACUERDO 286">ACUERDO 286</mat-option>
+                        <mat-option value="EXALUMNOS">EXALUMNOS</mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </mat-grid-tile>
+        </mat-grid-list>
+        <mat-grid-list cols="2" rowHeight="70px" style="margin-bottom: 50px;">
+            <div style="font-size: 12px; color:brown; font-weight: bold;">v. 1.1.11</div>
+        </mat-grid-list>
+
+    </div>
+</div>

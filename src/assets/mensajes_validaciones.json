@@ -1,0 +1,105 @@
+{
+    "nombre": {
+        "m1": "Por favor ingresa un nombre",
+        "m2": "Nombre inválido"
+    },
+    "paterno": {
+        "m1": "Por favor ingresa un apellido paterno",
+        "m2": "Apellido paterno inválido"
+    },
+    "materno": {
+        "m1": "Por favor ingresa un apellido materno",
+        "m2": "Apellido materno inválido"
+    },
+    "correo": {
+        "m1": "Por favor ingresa un correo válido",
+        "m2": "Correo inválido"
+    },
+    "estado": {
+        "m1": "Por favor elige un Estado"
+    },
+    "celular": {
+        "m1": "Ingresa tu número de celular",
+        "m2": "Al menos debe contener 10 dígitos",
+        "m3": "Número inválido"
+    },
+    "telefono": {
+        "m1": "Ingresa tu número de teléfono",
+        "m2": "Al menos debe contener 10 dígitos",
+        "m3": "Número inválido"
+    },
+    "genero": {
+        "m1": "Elige tu género"
+    },
+    "edad": {
+        "m1": "Al menos debe contener 2 dígitos y debe ser mayor de 11 años",
+        "m2": "Al menos debe ser mayor de 12 años"
+    },
+    "cana_preferido": {
+        "m1": "Elige un canal preferido"
+    },
+    "fecha_nac": {
+        "m1": "Ingresa tu fecha de nacimiento",
+        "m2": "Fecha de nacimiento inválida"
+    },
+    "parentesco": {
+        "m1": "Elige tu parentesco"
+    },
+    "area_interes": {
+        "m1": "Elige una área de interés"
+    },
+    "modalidad": {
+        "m1": "Elige una modalidad"
+    },
+    "campus": {
+        "m1": "Elige un campus"
+    },
+    "ciclo": {
+        "m1": "Indica cuándo deseas ingresar"
+    },
+    "nivel": {
+        "m1": "Elige un nivel"
+    },
+    "carrera": {
+        "m1": "Elige una carrera"
+    },
+    "resultado_admision": {
+        "m1": "Selecciona si te encuentras en un proceso de exámen de admisión"
+    },
+    "canal": {
+        "m1": "Elige un canal"
+    },
+    "tipificacion": {
+        "m1": "Elige una tipificación"
+    },
+    "csq": {
+        "m1": "Elige un departamento"
+    },
+    "interes": {
+        "m1": "Elige un interés"
+    },
+    "num_cuenta": {
+        "m1": "Ingresa un número de cuenta",
+        "m2": "Número de cuenta inválido"
+    },
+    "num_persona": {
+        "m1": "Ingresa un número de persona"
+    },
+    "etapa_venta": {
+        "m1": "Elige una etapa de venta"
+    },
+    "fecha_cita": {
+        "m1": "Ingresa una fecha",
+        "m2": "Fecha inválida"
+    },
+    "hora_cita": {
+        "m1": "Ingresa una hora",
+        "m2": "Hora inválida"
+    },
+    "asesor": {
+        "m1": "Elige un asesor"
+    },
+    "ejecutivo": {
+        "m1": "Elige un ejecutivo"
+    }
+}

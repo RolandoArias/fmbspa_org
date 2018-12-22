@@ -1,0 +1,1976 @@
+﻿[
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1ATIPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1MACPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1ECAPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1SURPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "C1ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "C1MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "C1ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "C1SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2ATIPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2MACPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2ECAPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2SURPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "C2ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "C2MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "C2ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "C2SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3ATIPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3MACPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3ECAPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3SURPRE",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3ATILIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3ECALIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3SURLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ATIZAPAN",
+		"Nivel": "POSGRADO",
+		"Team": "C3ATIGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "CUITLAHUAC-MARINA",
+		"Nivel": "POSGRADO",
+		"Team": "C3MACGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "ECATEPEC",
+		"Nivel": "POSGRADO",
+		"Team": "C3ECAGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "SUR",
+		"Nivel": "POSGRADO",
+		"Team": "C3SURGDP",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "C1REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "C2REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LOS REYES",
+		"Nivel": "POSGRADO",
+		"Team": "C3REY",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "EN LINEA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3WEBONLLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "C1TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "C2TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "TOLUCA",
+		"Nivel": "POSGRADO",
+		"Team": "C3TOL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "C1LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "C2LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "LEON",
+		"Nivel": "POSGRADO",
+		"Team": "C3LEON",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C1MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C1",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "C1GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C2MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C2",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "C2GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "PREPARATORIA",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "CIENCIAS DE LA SALUD",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ODONTOLOGIA",
+		"Team": "C3MACLIC",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA CORP",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "LICENCIATURA ONLINE",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO ONLINE",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": "ABSORCION ONL",
+		"Ciclo": "C3",
+		"Campus": "GUADALAJARA",
+		"Nivel": "POSGRADO",
+		"Team": "C3GDL",
+		"Prioridad": "5",
+		"Attemp": "1"
+	},
+	{
+		"FuenteObtencion": ""
+	}
+]

@@ -1,0 +1,29 @@
+<form [formGroup]="forms">
+<div class="dialog-container">
+    <div class="row">
+        <div class="col-12">
+            <div class="message-container">
+                <mat-grid-list cols="1" rowHeight="80px">
+                    <mat-grid-tile>
+                        <mat-form-field>
+                            <mat-select placeholder="{{title}}" formControlName="Asesor" (change)="onChangeAsesor(forms.controls.Asesor.value)">
+                                <mat-option value="">Selecciona una opción</mat-option>
+                                <mat-option *ngFor="let asesor of asesors;" [value]="asesor['Nombre Asesor']">
+                                    {{ asesor['Nombre Asesor'] }}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </mat-grid-tile>
+                </mat-grid-list>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-lg-4 offset-lg-8">
+            <div class="boton-cancelar" style="top: 0; ">
+                <button mat-button type="button" (click)="onNoClick()">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+</form>

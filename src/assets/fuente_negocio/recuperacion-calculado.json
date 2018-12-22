@@ -1,0 +1,14 @@
+﻿[
+	{
+		"FuenteObtencion": "RECUPERACIÓN",
+		"Ciclo": "ANY",
+		"Campus": "ANY",
+		"Nivel": "ANY",
+		"Team": "RECUPERACION",
+		"Prioridad": "2",
+		"Attemp": "0"
+	},
+	{
+		"FuenteObtencion": ""
+	}
+]
