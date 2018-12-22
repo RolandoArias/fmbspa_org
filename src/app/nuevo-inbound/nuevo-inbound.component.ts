@@ -1750,11 +1750,10 @@ if( this.form.value.CorreoElectronico != '' ){
 
 
               this.sendServ.send_Todos_inb_sol_prom_QA(this.sendd)
-                  .subscribe(
+                .subscribe(
                       (res: any) => {
                           console.log(res.status);
                           if (res.status == 200) {
-
                             this.Abreventana(this.form.value.Nombre, this.form.value.ApellidoPaterno, '', this.form.value.CorreoElectronico, "", '');
                               this.showDialog("Registro guardado con éxito.");
                               this.sendServ.sendHubSpot(this.form.value.Nombre, this.form.value.ApellidoPaterno, '', this.form.value.CorreoElectronico, "", '')// this.form.value)
@@ -1763,12 +1762,9 @@ if( this.form.value.CorreoElectronico != '' ){
                                       (ress: any) => {
                                           console.log(ress.status);
                                           if (ress.status == 200) {
-                                              console.log("Hubspot: Los datos se han envido a Hubspot correctamente.");
-
-
-
+                                               console.log("Hubspot: Los datos se han envido a Hubspot correctamente.");
                                             } else {
-                                              console.log("Hubspot: Error al enviar el registro.");
+                                               console.log("Hubspot: Error al enviar el registro.");
                                           }
                                       }
                                   )

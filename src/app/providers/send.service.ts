@@ -220,7 +220,6 @@ sendAllQA_s_i_p(data){
 
 //Test DEv
 sendAllDev_cargabase(data){
-
   return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/27038/requests/9455?accesstoken=8d0e3e43-a352-409a-bbee-401e2ee99b9f" , data, {headers: this.headers});
 
 }
@@ -230,6 +229,7 @@ sendAllDev_cargabase(data){
 
 
 //EndPoint CRM TEST Solo para inbound
+
  sendCRM_TestInbound(data){
   return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9042?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
  }
@@ -238,29 +238,24 @@ sendAllDev_cargabase(data){
 //Endpoint para QA GIT
 
 send_Todos_inb_sol_prom_QA(data){
-
   //return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9308?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
   return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9042?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
   
 }
 
- send_ListaSeguimiento_QA(data){
-
+send_ListaSeguimiento_QA(data){
  // return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9312?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
  return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/27038/requests/7924?accesstoken=8d0e3e43-a352-409a-bbee-401e2ee99b9f" , data, {headers: this.headers});
 
- }
+}
 
 send_Todos_Referidos_QA(data){
-
-  return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9309?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
+  return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9042?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
 
 }
 
 send_Todos_cargasis_QA(data){
-
   return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9311?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
-
 }
 
 

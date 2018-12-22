@@ -949,10 +949,6 @@ if( this.form.value.CorreoElectronico != '' ){
                                   //Se envia el segundo endpoint -> 7841
 
 
-
-
-
-
                         this.sendServ.send_Todos_inb_sol_prom_QA(sendd)// this.form.value)
                             .subscribe(
                                 (res: any) => {
@@ -996,8 +992,8 @@ if( this.form.value.CorreoElectronico != '' ){
 
                   this.sendServ.send_ListaSeguimiento_QA(obj_seguimiento)
                   .subscribe(
-                          (ress: any) => {
-                              console.log(ress.status);
+                        (ress: any) => {
+                            console.log(ress.status);
                               if (ress.status == 200) {
                                   console.log("7924: Los datos se han envido correctamente.");
                                   //Se envia el segundo endpoint -> 7841
