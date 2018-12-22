@@ -246,7 +246,7 @@ send_Todos_inb_sol_prom_QA(data){
  send_ListaSeguimiento_QA(data){
 
  // return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9312?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
- return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/31915/requests/9042?accesstoken=ca14cddc-cbdb-4cd3-96f6-f176b94b6cce" , data, {headers: this.headers});
+ return this.http.post( "https://endpoint.scribesoft.com/v1/orgs/27038/requests/7924?accesstoken=8d0e3e43-a352-409a-bbee-401e2ee99b9f" , data, {headers: this.headers});
 
  }
 
