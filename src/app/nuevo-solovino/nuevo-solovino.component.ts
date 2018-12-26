@@ -653,7 +653,8 @@ for(let i = 0 ; i < this.subysubsubtipos2.length ; i++ ){
     this.etapaprocesoventaid = this.subysubsubtipos2[i].etapaprocesoventaid;
   }
 }
-valor_tipificacion = 'RECEPCION_'+tipi_creacion+'_'+tipi_actualizacion;
+valor_tipificacion = 'RECEPCION';
+//alor_tipificacion = 'RECEPCION_'+tipi_creacion+'_'+tipi_actualizacion;
 console.log(valor_tipificacion);
 
 
@@ -731,6 +732,7 @@ this.form.value.CorreoElectronicoTutor = this.form.value.CorreoElectronicoTutor.
           TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
           Lista_seg: l_seg,
           Tipificacion: (valor_tipificacion == '' ) ? null : valor_tipificacion,
+          GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
           EtapaProcesoVentaGUID : (this.etapaprocesoventaid == '') ? null : this.etapaprocesoventaid,
 
         };
