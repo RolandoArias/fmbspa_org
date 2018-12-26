@@ -937,6 +937,7 @@ if(this.fuentesobtencion[i] !== undefined){
                   Banner: (this.form.value.Banner =='')? null : this.form.value.Banner,
 
                   Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                  GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                   EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
 
@@ -1021,6 +1022,7 @@ if(this.fuentesobtencion[i] !== undefined){
                   Banner: (this.form.value.Banner =='')? null : this.form.value.Banner,
 
                   Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                  GUIDTipificacion : 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                   EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
                   Notas: (this.form.value.Notas == '') ? null : this.form.value.Notas,
@@ -1102,6 +1104,7 @@ if(this.fuentesobtencion[i] !== undefined){
                   Banner: (this.form.value.Banner =='')? null : this.form.value.Banner,
 
                   Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                  GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                   EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
                   Notas: (this.form.value.Notas == '') ? null : this.form.value.Notas,
@@ -1184,6 +1187,7 @@ if(this.fuentesobtencion[i] !== undefined){
                 Bandera: (this.cita == '') ? null : this.cita,
 
                 Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                 EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
                 Notas: (this.form.value.Notas == '') ? null : this.form.value.Notas,
@@ -1272,6 +1276,7 @@ if(this.fuentesobtencion[i] !== undefined){
                 Bandera: (this.cita == '') ? null :this.cita,
 
                 Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                 EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
 
@@ -1358,6 +1363,7 @@ if(this.fuentesobtencion[i] !== undefined){
               Banner: (this.form.value.Banner =='')? null : this.form.value.Banner,
 
               Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+                GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
               EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
               Notas: (this.form.value.Notas == '') ? null : this.form.value.Notas,
@@ -1445,6 +1451,7 @@ if(this.fuentesobtencion[i] !== undefined){
 //              Tipificacion: (this.form.value.Tipificacion =='')? null : this.form.value.Tipificacion,
 
             Tipificacion: (this.form.value.Tipificacion =='')? null : this.Tipificacion_con_GUID,
+            GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
             EtapaProcesoVentaGUID: (this._etapaprocesoventaid == '' )?null:this._etapaprocesoventaid,
 
             Notas: (this.form.value.Notas == '') ? null : this.form.value.Notas,
