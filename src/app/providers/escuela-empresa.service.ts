@@ -17,7 +17,7 @@ export class EscuelaEmpresaService {
                private calidadServ: CalidadService) {}
 
   getAll() : Observable<EscuelaEmpresa[]>{
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/escuela_empresa", {headers: this.headers})
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/escuela_empresa", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

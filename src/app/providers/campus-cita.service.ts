@@ -12,7 +12,7 @@ export class CampusCitaService {
   constructor(private http: Http) { }
 
   getAll(): Observable<CampusCita[]>{
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/campus_cita", {headers: this.headers})
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/campus_cita", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

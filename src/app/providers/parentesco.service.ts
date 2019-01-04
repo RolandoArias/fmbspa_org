@@ -16,7 +16,7 @@ export class ParentescoService {
 
 
   getAll() : Observable<Parentesco[]>{
-    //http://10.210.159.46/fmbapp_qa/public/api/
+    //http://10.210.136.121/fmbapp_qa/public/api/
 
     return this.http.get(this.api_cnn+"parentesco", {headers: this.headers})
                .map(

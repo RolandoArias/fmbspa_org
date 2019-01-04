@@ -30,7 +30,7 @@ export class CampusCarreraService {
               private modalidadServ: ModalidadService) { }
 
   getAll(){
-    this.http.get("http://10.210.159.46/fmbapp_qa/public/api/campus_carreras", {headers: this.headers})
+    this.http.get("http://10.210.136.121/fmbapp_qa/public/api/campus_carreras", {headers: this.headers})
         .map(
           (res: Response) => res.json()
         )
@@ -40,14 +40,14 @@ export class CampusCarreraService {
   }
 
   getAlls(): Observable<CampusCarrera[]> {
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/campus_carreras", { headers: this.headers })
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/campus_carreras", { headers: this.headers })
       .map(
         (res: Response) => res.json()
       )
   }
 
   getAll_Carreras(): Observable<Carrera[]> {
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/carreras", { headers: this.headers })
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/carreras", { headers: this.headers })
       .map(
         (res: Response) => res.json()
       )

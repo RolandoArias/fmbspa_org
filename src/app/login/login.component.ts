@@ -45,7 +45,7 @@ export class LoginComponent implements OnInit {
     this.email = new FormControl('', this.validUsuario.bind(this));
     console.log('CODE='+this.getParameterByName('code'));
     if(this.getParameterByName('code')!=''){
-      window.location.href = "http://10.210.159.46/fmbapp_qa/public/api/getToken?code="+this.getParameterByName('code');
+      window.location.href = "http://10.210.136.121/fmbapp_qa/public/api/getToken?code="+this.getParameterByName('code');
     }
 
     if(this.getParameterByName('access_token')!=''){
@@ -93,7 +93,7 @@ export class LoginComponent implements OnInit {
                 $.ajax(settings2).done(function (response){
                   var user = JSON.stringify(response)
                   localStorage.setItem('user',user);
-                  $.ajax('http://10.210.159.46/fmbapp_qa/public/api/roles/'+response.domainname,
+                  $.ajax('http://10.210.136.121/fmbapp_qa/public/api/roles/'+response.domainname,
                     {
                        //data: {user_id:''},
                         contentType: 'application/json',

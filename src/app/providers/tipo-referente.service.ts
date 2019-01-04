@@ -12,7 +12,7 @@ export class TipoReferenteService {
   constructor(private http: Http) { }
 
   getAll() : Observable<TipoReferente[]>{
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/tipo_referente", {headers: this.headers})
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/tipo_referente", {headers: this.headers})
                .map(
                  (res: Response) => res.json()
                )

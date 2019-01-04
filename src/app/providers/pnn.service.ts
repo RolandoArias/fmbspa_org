@@ -22,7 +22,7 @@ export class PnnService {
         .subscribe(
           (data: Pnn[]) => this.pnns = data
     )
-    /*this.http.get("http://10.210.159.46/assets/pnnpublico.json", {headers: this.headers})
+    /*this.http.get("http://10.210.136.121/assets/pnnpublico.json", {headers: this.headers})
         .map(
           (res: Response) => res.json()
         )

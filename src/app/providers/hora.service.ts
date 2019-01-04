@@ -16,7 +16,7 @@ export class HoraService {
               (res: Response) => res.json()
             )
             
-    /*return this.http.get("http://10.210.159.46/assets/hora.json")
+    /*return this.http.get("http://10.210.136.121/assets/hora.json")
            .map(
               (res: Response) => res.json()
             )*/

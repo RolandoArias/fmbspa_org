@@ -13,7 +13,7 @@ export class CampusService {
   constructor(private http: Http) { }
 
   getAll() : Observable<Campus[]> {
-    return this.http.get("http://10.210.159.46/fmbapp_qa/public/api/campus", {headers: this.headers})
+    return this.http.get("http://10.210.136.121/fmbapp_qa/public/api/campus", {headers: this.headers})
         .map(
             (res: Response) => res.json()
         )

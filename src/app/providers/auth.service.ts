@@ -68,7 +68,7 @@ export class AuthService {
           this.router.navigate(['/home']);
           let userLocal = localStorage.getItem('user');
           let datos = JSON.parse(userLocal); 
-          $.ajax('http://10.210.159.46/fmbapp_qa/public/api/roles/'+datos.mail,
+          $.ajax('http://10.210.136.121/fmbapp_qa/public/api/roles/'+datos.mail,
           {
              //data: {user_id:''},
               contentType: 'application/json',

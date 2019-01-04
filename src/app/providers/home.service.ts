@@ -45,7 +45,7 @@ export class HomeService {
         console.log('ssss22222222222');
         let datos = JSON.stringify(res);
         localStorage.setItem('user', datos);
-        $.ajax('http://10.210.159.46/fmbapp_qa/public/api/roles/'+res.mail,
+        $.ajax('http://10.210.136.121/fmbapp_qa/public/api/roles/'+res.mail,
         {
            //data: {user_id:''},
             contentType: 'application/json',

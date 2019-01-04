@@ -32,11 +32,8 @@ export class ResultadoInboundComponent implements OnInit {
       this.reesults  = h;
 
       if(this.cantidad == 0){
-
         console.log("No se encontraron registros con los datos capturados");
-
         this.showDialog("No se encontraron registros con los datos capturados.");
-
       }
 
   }
