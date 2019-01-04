@@ -586,7 +586,8 @@ for(let i = 0 ; i < this.subysubsubtipos2.length ; i++ ){
       this.etapaprocesoventaid = this.subysubsubtipos2[i].etapaprocesoventaid;
     }
 }
-valor_tipificacion = 'REFERIDO PROMOTOR_'+tipi_creacion+'_'+tipi_actualizacion;
+//valor_tipificacion = 'REFERIDO PROMOTOR_'+tipi_creacion+'_'+tipi_actualizacion;
+valor_tipificacion = 'REFERIDO PROMOTOR';
 console.log(valor_tipificacion);
 
   this.form.value.Nombre = this.form.value.Nombre.toUpperCase();
@@ -635,6 +636,7 @@ console.log(valor_tipificacion);
               TelefonoCasaPredictivo: (this.form.value.TelefonoCasaPredictivo =='')? null : this.form.value.TelefonoCasaPredictivo,
               TelefonoOficinaPredictivo: ( this.form.value.TelefonoOficinaPredictivo =='')? null : this.form.value.TelefonoOficinaPredictivo,
               Tipificacion: (valor_tipificacion == '' ) ? null : valor_tipificacion,
+              GUIDTipificacion:  'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
               EtapaProcesoVentaGUID : (this.etapaprocesoventaid == '') ? null : this.etapaprocesoventaid,
             };
 

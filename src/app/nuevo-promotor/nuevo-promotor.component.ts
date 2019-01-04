@@ -1004,7 +1004,8 @@ if(this.fuentesobtencion[i] !== undefined){
 
             console.log("Esta es la tipificacion: "+SubSubTipoV[0]+"_"+SubSubTipoV[1]+"_"+SubSubTipoV[1]);
 
-            let tipificacion_subsubtipo_con_guid = SubSubTipoV[0]+"_"+SubSubTipoV[1]+"_"+SubSubTipoV[1];
+            //let tipificacion_subsubtipo_con_guid = SubSubTipoV[0]+"_"+SubSubTipoV[1]+"_"+SubSubTipoV[1];
+            let tipificacion_subsubtipo_con_guid = 'Nuevo Promotor';
 
             this.etapaprocesoventaid = SubSubTipoV[2];
 
@@ -1117,7 +1118,8 @@ if(this.fuentesobtencion[i] !== undefined){
                 TelefonoTutor:(this.form.value.TelefonoTutor=='')?null:this.form.value.TelefonoTutor,
                 TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
                 //Tipificacion: SubSubTipoV[0],
-                Tipificacion: tipificacion_subsubtipo_con_guid,
+                Tipificacion: 'Nuevo Promotor',
+                GUIDTipificacion:'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                 EtapaProcesoVentaGUID: ( SubSubTipoV[2] =='')? null : SubSubTipoV[2],
 
                 EscuelaEmpresa: ( EmpresaEscuelaV[1] == '' || EmpresaEscuelaV[1] == null)? '': EmpresaEscuelaV[1],
@@ -1196,6 +1198,7 @@ if(this.fuentesobtencion[i] !== undefined){
               TelefonoTutor:(this.form.value.TelefonoTutor=='')?null:this.form.value.TelefonoTutor,
               TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
               Tipificacion: tipificacion_subsubtipo_con_guid,
+              GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
               EtapaProcesoVentaGUID : ( SubSubTipoV[2] =='')? null : SubSubTipoV[2],
 
               EscuelaEmpresa: ( EmpresaEscuelaV[1] == '' || EmpresaEscuelaV[1] == null)? '': EmpresaEscuelaV[1],
@@ -1272,6 +1275,7 @@ if(this.fuentesobtencion[i] !== undefined){
               TelefonoTutor:(this.form.value.TelefonoTutor=='')?null:this.form.value.TelefonoTutor,
               TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
               Tipificacion: tipificacion_subsubtipo_con_guid,
+              GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
               EtapaProcesoVentaGUID : ( SubSubTipoV[2] =='')? null : SubSubTipoV[2],
 
               EscuelaEmpresa: ( EmpresaEscuelaV[1] == '' || EmpresaEscuelaV[1] == null)? '': EmpresaEscuelaV[1],
@@ -1352,6 +1356,7 @@ if(this.fuentesobtencion[i] !== undefined){
                   TelefonoTutor:(this.form.value.TelefonoTutor=='')?null:this.form.value.TelefonoTutor,
                   TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
                   Tipificacion: tipificacion_subsubtipo_con_guid,
+                  GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                   EtapaProcesoVentaGUID : ( SubSubTipoV[2] =='')? null : SubSubTipoV[2],
 
                   EscuelaEmpresa: ( EmpresaEscuelaV[1] == '' || EmpresaEscuelaV[1] == null )? '': EmpresaEscuelaV[1],
@@ -1453,6 +1458,7 @@ if(this.fuentesobtencion[i] !== undefined){
                   TelefonoTutor:(this.form.value.TelefonoTutor=='')?null:this.form.value.TelefonoTutor,
                   TelefonoCasaTutorPredictivo: (this.form.value.TelefonoPredictivoTutor == "901null") ? null : this.form.value.TelefonoPredictivoTutor,
                   Tipificacion: tipificacion_subsubtipo_con_guid,
+                  GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                   EtapaProcesoVentaGUID : ( SubSubTipoV[2] =='')? null : SubSubTipoV[2],
               };
 

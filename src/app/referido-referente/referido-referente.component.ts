@@ -555,7 +555,8 @@ console.log("Opcion seleccionada de Telefono:");
         console.log("tipi_actualizacion: "+tipi_actualizacion);
       }
   }
-  valor_tipificacion = 'REFERIDO ONBOARDING_'+tipi_creacion+'_'+tipi_actualizacion;
+  //valor_tipificacion = 'REFERIDO ONBOARDING_'+tipi_creacion+'_'+tipi_actualizacion;
+  valor_tipificacion = 'REFERIDO ONBOARDING';
   console.log(valor_tipificacion);
 
 
@@ -611,6 +612,7 @@ console.log("Opcion seleccionada de Telefono:");
               Ciclo: ( ciclo_vigente =='')? null : ciclo_vigente,
               GUIDCiclo: ( ciclo_codigounico =='')? null : ciclo_codigounico,
               Tipificacion: (valor_tipificacion == '' ) ? null : valor_tipificacion,
+              GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
               EtapaProcesoVentaGUID : (this.etapaprocesoventaid == '') ? null : this.etapaprocesoventaid,
             };
 

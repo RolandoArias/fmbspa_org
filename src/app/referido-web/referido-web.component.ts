@@ -675,7 +675,8 @@ for(let i = 0 ; i < this.subysubsubtipos2.length ; i++ ){
       console.log("tipi_actualizacion: "+tipi_actualizacion);
     }
 }
-valor_tipificacion = 'REFERIDO WEB_'+tipi_creacion+'_'+tipi_actualizacion;0
+//valor_tipificacion = 'REFERIDO WEB_'+tipi_creacion+'_'+tipi_actualizacion;
+valor_tipificacion = 'REFERIDO WEB';
 console.log(valor_tipificacion);
 
 
@@ -744,6 +745,7 @@ console.log(valor_tipificacion);
                // GUIDCiclo: (localStorage.getItem('GUIDCiclo') == null) ? null : localStorage.getItem('GUIDCiclo'),
                 GUIDCiclo: ( ciclo_codigounico =='')? null : ciclo_codigounico,
                 Tipificacion: (valor_tipificacion == '' ) ? null : valor_tipificacion,
+                GUIDTipificacion: 'c8aca7b6-cbdb-e811-8148-3863bb35ddc8',
                 EtapaProcesoVentaGUID : (this.etapaprocesoventaid == '') ? null : this.etapaprocesoventaid,
             };
 
