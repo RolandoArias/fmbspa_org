@@ -2480,7 +2480,8 @@ console.log("onChangeInteres: "+value);
 
         if(Tipificacion == this.tipificaciones[i].Tipificacion ){
 
-          this.Tipificacion_con_GUID = Tipificacion+"_"+this.tipificaciones[i].id+"_"+this.tipificaciones[i].id;
+            //this.Tipificacion_con_GUID = Tipificacion+"_"+this.tipificaciones[i].id+"_"+this.tipificaciones[i].id;
+           this.Tipificacion_con_GUID = Tipificacion;
           this.form.value.Tipificacion = Tipificacion+"_"+this.tipificaciones[i].id+"_"+this.tipificaciones[i].id;
           this._etapaprocesoventaid = this.tipificaciones[i].etapaprocesoventaid;
 
